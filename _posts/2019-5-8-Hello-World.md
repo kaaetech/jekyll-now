@@ -20,4 +20,3 @@ Below I have attached some of the projects that were listed on my old page
 *   [hacking / cracking / ctf writeups & handy stuff](https://github.com/kaaetech/hackermandoc/wiki)
 
 
-- emil
