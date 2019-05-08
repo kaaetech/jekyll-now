@@ -8,4 +8,4 @@ TBD
 
 ### Contact me
 
-[email@domain.com](mailto:emil@kaae.club)
+[emil@kaae.club](mailto:emil@kaae.club)
